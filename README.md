@@ -1,10 +1,10 @@
-# Apple
+# Smashing magazine heatmap
 
-> A clone for the apple website.
+> A gray scale heatmap for the smashing magazine website.
 
 ## Screenshot
 
-![screenshot](./assets/images/screenshot.png)
+<img src="./assets/images/screenshot.png" width="200" />
 
 ## Live Preview
 
