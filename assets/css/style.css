@@ -1,0 +1,108 @@
+/* header section */
+.navbar {
+    min-height: 100px;
+    background-color: #555;
+}
+
+.main-header {
+    position: absolute;
+    top: 25%;
+    left: calc(50% - 175px);
+    width: 350px;
+    text-align: center;
+    background-color: #777;
+    color: white;
+}
+
+.header-section {
+    min-height: 715px;
+}
+
+.header-section:nth-child(1) {
+    background-color: #333;
+}
+
+.header-section:nth-child(2) {
+    background-color: #666;
+}
+
+.header-section:nth-child(3) {
+    background-color: #7e7e7e;
+}
+
+.header-section:nth-child(4) {
+    background-color: #888;
+}
+
+/* Article section */
+.article {
+    min-height: 512px;
+}
+
+.article:nth-child(1) {
+    background-color: #555;
+}
+
+.article:nth-child(2) {
+    background-color: #444;
+}
+
+.article:nth-child(3) {
+    background-color: #666;
+}
+
+/* Call to Action section */
+.cta {
+    background-color: #333;
+    min-height: 650px;
+}
+
+.article-links {
+    background-color: #ccc;
+    min-height: 160px;
+} 
+
+/* Call to Action section */
+.announcement {
+    background-color: #333;
+    min-height: 1060px;
+}
+
+/* Blog Section */
+.main-blog {
+    background-color: #666;
+    min-height: 350px;
+}
+
+.secondary-blog {
+    background-color: #999;
+    min-height: 425px;
+}
+
+/* Book Announcement */
+.book-announcement {
+    background-color: #777;
+    min-height: 380px;
+}
+
+/* Content link */
+.content-link {
+    background-color: #bbb;
+    min-height: 600px;
+}
+
+.newsletter {
+    background-color: #aaa;
+    min-height: 650px;
+}
+
+.bottom-link {
+    background-color: #eee;
+    min-height: 160px;
+}
+
+/* footer */
+.footer {
+    background-color: #ddd;
+    min-height: 650px;
+}
