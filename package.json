@@ -1,0 +1,29 @@
+{
+    "name": "smashing-mag-heatmap",
+    "version": "1.0.0",
+    "description": "A grey scale heatmap for the smashing magazine website.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aldemeery/smashing-mag-heatmap.git"
+    },
+    "keywords": [
+        "smashing magazine",
+        "microverse",
+        "html",
+        "css",
+        "heatmap"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/aldemeery/smashing-mag-heatmap/issues"
+    },
+    "homepage": "https://github.com/aldemeery/smashing-mag-heatmap#readme",
+    "devDependencies": {
+        "stylelint": "^13.3.3",
+        "stylelint-config-recommended": "^3.0.0"
+    }
+}
