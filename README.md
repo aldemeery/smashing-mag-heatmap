@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-<img src="./assets/images/screenshot.png" width="200" />
+<img src="./assets/images/screenshot.png" width="400" />
 
 ## Live Preview
 

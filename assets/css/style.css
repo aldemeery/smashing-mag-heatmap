@@ -6,7 +6,16 @@ html {
 /* header section */
 .navbar {
   min-height: 100px;
+  padding: 20px 15px;
   background-color: #555;
+}
+
+.nav-element {
+  background-color: #777;
+}
+
+.nav-element:last-child {
+  background-color: #666;
 }
 
 .main-header {
@@ -247,7 +256,7 @@ html {
 }
 
 .bottom-link {
-  background-color: #eee;
+  background-color: #ddd;
   min-height: 160px;
   color: #000;
   text-align: center;
@@ -257,7 +266,7 @@ html {
 
 /* footer */
 .footer {
-  background-color: #ddd;
+  background-color: #bbb;
   min-height: 650px;
   padding: 15px;
 }
@@ -265,12 +274,32 @@ html {
 .top-content {
   height: 350px;
   min-width: 90%;
+  background-color: #ddd;
+  padding: 15px;
+}
+
+.footer-top-link {
   background-color: #eee;
+  width: 950px;
+  height: 50px;
+  margin: auto;
+}
+
+.footer-top-link:last-child {
+  width: 450px;
 }
 
 .bottom-content {
   height: 250px;
   min-width: 90%;
   margin-top: 15px;
+  background-color: #eee;
+  padding: 15px;
+}
+
+.footer-bottom-link {
+  width: 450px;
+  height: 200px;
   background-color: #fff;
+  margin: 0 auto;
 }
